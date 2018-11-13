@@ -15,6 +15,7 @@
 * Change into the folder 'HitWhileYouCan' in the project directory and then run the following commands:
     * javac -d . *.java
     * java Game
+* Check the video in the 'Sample Output' folder to watch the gameplay
 ---
 This project has been done as a part of our OOPM Course Project.
 
