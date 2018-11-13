@@ -18,6 +18,9 @@
 * Check the video in the 'Sample Output' folder to watch the gameplay
 ---
 This project has been done as a part of our OOPM Course Project.
-
+## Members:
+* 1711077 - Soham Gadhave
+* 1711079 - Sushant Gharal
+* 1711083 - Mohammedarshan Jada
 ---
 ## Thank You!
